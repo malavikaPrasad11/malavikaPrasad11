@@ -2,13 +2,13 @@
 
 ## 🏛 About Me  
 🎓 **B.Tech in CSE (AI)** | Amrita School of AI, Coimbatore (2023 – Present)  
-💡 Aspiring **AI & ML Engineer** passionate about **Robotics, Computer Vision, and Edge AI**.  
+💡 Aspiring **AI & ML Engineer** passionate about **Robotics, Computer Vision**.  
 
 🚀 **Interests:**  
 - Machine Learning & Deep Learning  
-- IoT & Edge AI  
-- Robotics & Computer Vision  
-- AI for Healthcare  
+- Computer Networks & IoT
+- Optimization &Computer Vision
+-  
 
 🔍 **Currently Working On:**  
 - 🤖 AI-Powered Vision-Based Robotic Arm  
