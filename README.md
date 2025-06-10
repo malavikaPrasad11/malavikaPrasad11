@@ -8,12 +8,7 @@
 - Machine Learning & Deep Learning  
 - Computer Networks & IoT
 - Optimization &Computer Vision
--  
 
-🔍 **Currently Working On:**  
-- 🤖 AI-Powered Vision-Based Robotic Arm  
-- 🌍 IoT-Based Air Pollution Monitoring using LoRa
-- 🔬 Epitope Prediction in Vaccine Development
 
 ## 🏆 Projects  
 ### **🩺 Multi-Modal Breast Cancer Prediction**  
