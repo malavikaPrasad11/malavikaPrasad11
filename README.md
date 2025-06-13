@@ -1,7 +1,7 @@
 # Hi, I'm Malavika Prasad! 👋  
 
 ## 🏛 About Me  
-🎓 **B.Tech in CSE (AI)** | Amrita School of AI, Coimbatore (2023 – Present)  
+🎓 **B.Tech in CSE (AI)** | Amrita School of AI, Coimbatore (2023 – 2027)  
 💡 Aspiring **AI & ML Engineer** passionate about **Robotics, Computer Vision**.  
 
 🚀 **Interests:**  
